@@ -5,5 +5,7 @@ import lombok.Data;
 @Data
 public class BaseVo {
 	private String accessToken;
+
+	public void test1() {}
 }
 
